@@ -1,0 +1,27 @@
+# Environment & secrets
+.env
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# Data files (too large for git)
+*.csv
+*.json
+!package.json
+!package-lock.json
+
+# OS files
+.DS_Store
+
+# Logs
+logs/
+
+# Output
+output/
+
+# Misc
+untitled folder/
+Bonds-Capital-Gains-Statement-Template.xlsx

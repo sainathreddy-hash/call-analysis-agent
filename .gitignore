@@ -27,3 +27,4 @@ output/
 untitled folder/
 Bonds-Capital-Gains-Statement-Template.xlsx
 .vercel
+.env*.local

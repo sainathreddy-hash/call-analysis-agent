@@ -1,0 +1,8 @@
+{
+  "name": "call-analysis-agent",
+  "private": true,
+  "dependencies": {
+    "googleapis": "^131.0.0",
+    "@anthropic-ai/sdk": "^0.78.0"
+  }
+}

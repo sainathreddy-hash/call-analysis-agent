@@ -1,8 +1,4 @@
 *.csv
-*.json
-!package.json
-!package-lock.json
-!vercel.json
 .env
 node_modules
 venv
@@ -10,8 +6,9 @@ __pycache__
 .DS_Store
 logs
 output
-data
 call-insights-pipeline
+call-dashboard-app
 Bonds-Capital-Gains-Statement-Template.xlsx
 untitled folder
 .git
+.vercel

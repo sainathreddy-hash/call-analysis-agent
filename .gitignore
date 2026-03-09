@@ -12,6 +12,7 @@ __pycache__/
 *.json
 !package.json
 !package-lock.json
+!vercel.json
 
 # OS files
 .DS_Store
